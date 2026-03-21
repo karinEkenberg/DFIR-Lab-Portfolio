@@ -1,0 +1,43 @@
+# --- Forensic Image Files (Extremely large) ---
+*.img
+*.dd
+*.ad1
+*.e01
+*.vmdk
+*.iso
+*.bin
+
+# --- Android Studio & Emulator Specific ---
+.gradle/
+build/
+captures/
+*.apk
+*.bundle
+# Exclude entire emulator directories if they are inside the repo
+.android/
+avd/
+
+# --- Python / Andriller Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Sensitive Data / Local Evidence ---
+# Exclude raw SQLite databases that might contain sensitive info
+*.db
+*.sqlite
+*.sqlite3
+
+# --- IDEs and Text Editors ---
+.vscode/
+.idea/
+*.swp
+*.bak
