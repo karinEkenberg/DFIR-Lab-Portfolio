@@ -1,0 +1,26 @@
+[
+  {
+    "createdDateTime": "2026-03-28T09:00:00Z",
+    "userPrincipalName": "karin@lab-env.com",
+    "ipAddress": "85.224.12.34",
+    "status": { "errorCode": 0, "failureReason": null },
+    "location": { "city": "Stockholm", "countryOrRegion": "SE" },
+    "appDisplayName": "Azure Portal"
+  },
+  {
+    "createdDateTime": "2026-03-28T10:15:22Z",
+    "userPrincipalName": "admin@lab-env.com",
+    "ipAddress": "102.89.34.11",
+    "status": { "errorCode": 50126, "failureReason": "Invalid username or password" },
+    "location": { "city": "Lagos", "countryOrRegion": "NG" },
+    "appDisplayName": "Office 365 Exchange Online"
+  },
+  {
+    "createdDateTime": "2026-03-28T10:20:05Z",
+    "userPrincipalName": "karin@lab-env.com",
+    "ipAddress": "85.224.12.34",
+    "status": { "errorCode": 0, "failureReason": null },
+    "location": { "city": "Stockholm", "countryOrRegion": "SE" },
+    "appDisplayName": "PowerShell CLI"
+  }
+]
