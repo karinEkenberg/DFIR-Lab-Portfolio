@@ -35,6 +35,7 @@ During the lab, the MD5 hash of the live source (`/dev/sda1`) was compared to th
 
 **Reasoning:**
 Since the imaging was performed on a **live system**, the operating system continued to write logs and update background files during the process. In a professional forensic environment, a hardware write-blocker or a "Live USB" (Read-only) would be required to ensure a static state and a perfect hash match.
+
 <img width="979" height="604" alt="Screenshot_2026-04-06_14-51-38" src="https://github.com/user-attachments/assets/09ac494a-186c-4db9-a8b2-a412e5b143c5" />
 ---
 
