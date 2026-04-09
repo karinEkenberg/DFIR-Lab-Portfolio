@@ -1,0 +1,30 @@
+﻿Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Acquired using: ADI4.7.3.81
+Case Number: 1
+Evidence Number: 1
+Unique Description: 
+Examiner: Karin
+Notes: 
+
+--------------------------------------------------------------
+
+Information for C:\a.ad1:
+[Computed Hashes]
+ MD5 checksum:    ae0edc55245538a82f9c0c982020efeb
+ SHA1 checksum:   66fbf665d267c587f69062f4c6da901580de5fb4
+
+Image information:
+ Acquisition started:   Thu Apr  9 10:19:27 2026
+ Acquisition finished:  Thu Apr  9 10:19:35 2026
+ Segment list:
+  C:\a.ad1
+ COMPUTED HASH :  ae0edc55245538a82f9c0c982020efeb
+ COMPUTED HASH :  66fbf665d267c587f69062f4c6da901580de5fb4
+
+Image Verification Results:
+ Verification started:  Thu Apr  9 10:19:35 2026
+ Verification finished: Thu Apr  9 10:19:36 2026
+ MD5 checksum:    ae0edc55245538a82f9c0c982020efeb : verified
+ SHA1 checksum:   66fbf665d267c587f69062f4c6da901580de5fb4 : verified
